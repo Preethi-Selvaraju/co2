@@ -6,6 +6,7 @@ textblob
 PyPDF2
 pandas
 streamlit
+tensorflow
 netCDF4
 streamlit_folium
 scikit-learn
